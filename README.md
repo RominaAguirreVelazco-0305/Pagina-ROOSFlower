@@ -65,4 +65,4 @@ ROSSFlower es una página web de una tienda en línea dedicada a la venta de ram
 
 ## 🌐 Cómo Visualizar la Página
 
-Puedes visualizar mi currículum vitae en línea visitando el siguiente enlace: [ROSSFlower GitHub](https://github.com/RominaAguirreVelazco-0305/P-gina-de-Flowers.git)
+Puedes visualizar mi currículum vitae en línea visitando el siguiente enlace: https://github.com/RominaAguirreVelazco-0305/Pagina-ROOSFlower.git
